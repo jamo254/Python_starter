@@ -1,0 +1,9 @@
+print("Welcome to python")
+print( 60 + 78)
+
+# Using operators 
+print(2 ** 3) #exponents
+print(44 % 2) #modulus / remainder
+print(47 // 3) #floored division
+print( 33 / 5)
+ 
