@@ -58,3 +58,14 @@ span += 3
 print(span, "")
 
 # Finding a vlue in  a list using index() method
+people = ["Bobi", "Alexa", "Alin", "Siri", "Kabu"]
+print(people.index("Alin"))
+# Using append() and inserts() methods
+people.append("Mark") #Adds items at the end of the list
+print(people)
+#Insert adds items at any point
+people.insert(1, "Akmedi")
+print("Add at:", people)
+
+# Mutabiliy of lists - cal remove, add and change
+electronics = ['phones', 'computers', 'radio']
